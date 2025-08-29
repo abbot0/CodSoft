@@ -1,2 +1,0 @@
-this is my file for MOVIE GENRE
-CLASSIFICATION
